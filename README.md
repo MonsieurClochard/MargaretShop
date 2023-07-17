@@ -1,2 +1,2 @@
 # MargaretShop
-First decent recreation of a working application
+Recreation of a working application
